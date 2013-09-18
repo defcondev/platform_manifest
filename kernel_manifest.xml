@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="kernel/lge/mako" name="faux123/mako" remote="aokp" revision="enhanced_stock" />
+  <project path="kernel/lge/geeb" name="kernel_lge_geeb" remote="dc" revision="cm10.1" />
+  </manifest>
